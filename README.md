@@ -64,5 +64,5 @@ Include instructions for how other developers can contribute to your project. Be
 
 ## License
 
-This project is released under the GNU public licence v3. 
+This project is released under the **GNU General Public License v3.0**. 
 
