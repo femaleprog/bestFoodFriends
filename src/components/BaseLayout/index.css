@@ -1,0 +1,28 @@
+.content {
+  background-color: #164267;
+}
+
+.first-header {
+  background: linear-gradient(to right, #164267, #1D557C, #C2D5EE, #537FA8, #97B4D7);
+
+}
+
+
+.second-header {
+  background: url('https://preview.ibb.co/fm4Cmk/fashion3.jpg');
+}
+
+.third-header {
+  background: url('https://preview.ibb.co/bMsCK5/fashion5.jpg');
+}
+
+.fourth-header {
+  background: url('https://preview.ibb.co/gtsZXQ/fashion6.jpg');
+}
+
+.first-header, .second-header, .third-header, .fourth-header {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+}
